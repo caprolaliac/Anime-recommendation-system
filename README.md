@@ -8,11 +8,11 @@ To provide reliable and diverse anime suggestions, the Anime Recommendation Syst
 
 # Getting-Started
 
-**Clone the repository:**  'git clone https://github.com/caprolaliac/Anime-recommendation-system.git' <br />
+**Clone the repository:**  ```git clone https://github.com/caprolaliac/Anime-recommendation-system.git``` <br />
 
-**Install the required libraries:** 'pip install pandas numpy scikit-learn' <br />
+**Install the required libraries:** ```pip install pandas numpy scikit-learn``` <br />
 
-**Run the Jupyter Notebook:**  'jupyter notebook ANIME%20RECOMMENDATION%20system.ipynb' <br />
+**Run the Jupyter Notebook:**  ```jupyter notebook ANIME%20RECOMMENDATION%20system.ipynb``` <br />
 
 # Future-Enhancements
 
