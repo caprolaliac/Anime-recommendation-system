@@ -8,16 +8,16 @@ To provide reliable and diverse anime suggestions, the Anime Recommendation Syst
 
 # Getting-Started
 
-**Clone the repository:**  'git clone https://github.com/caprolaliac/Anime-recommendation-system.git'
+**Clone the repository:**  'git clone https://github.com/caprolaliac/Anime-recommendation-system.git' <br />
 
-**Install the required libraries:** 'pip install pandas numpy scikit-learn'
+**Install the required libraries:** 'pip install pandas numpy scikit-learn' <br />
 
-**Run the Jupyter Notebook:**  'jupyter notebook ANIME%20RECOMMENDATION%20system.ipynb'
+**Run the Jupyter Notebook:**  'jupyter notebook ANIME%20RECOMMENDATION%20system.ipynb' <br />
 
 # Future-Enhancements
 
-**Hybrid Approach:** Combining collaborative and content-based filtering algorithms for even more reliable recommendations.
+**Hybrid Approach:** Combining collaborative and content-based filtering algorithms for even more reliable recommendations. <br />
 
-**Deploy as Web App:** Developing an easy-to-use online application that allows users to enter their preferences to gain anime recommendations.
+**Deploy as Web App:** Developing an easy-to-use online application that allows users to enter their preferences to gain anime recommendations. <br />
 
-**Personalized Recommendations:** Improving system personalisation by incorporating user-specific data, such as viewing history.
+**Personalized Recommendations:** Improving system personalisation by incorporating user-specific data, such as viewing history. <br />
